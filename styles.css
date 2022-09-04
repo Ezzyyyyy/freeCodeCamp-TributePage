@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h1, p {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: medium;
+    font-style: italic;
+}
+
+img {
+    max-width: 100%;
+    max-height: auto;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 10%;
+}
+
+main {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul {
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 20px;
+    text-align: center;
+    list-style-position: inside;
+}
